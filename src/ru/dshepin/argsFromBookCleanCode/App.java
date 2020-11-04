@@ -2,6 +2,8 @@ package ru.dshepin.argsFromBookCleanCode;
 
 import ru.dshepin.argsFromBookCleanCode.exception.ArgsExeption;
 
+//example: -l  -p 8080 -d fsd
+
 public class App {
 	public static void main(String[] args) {
 		try {
